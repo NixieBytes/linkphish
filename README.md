@@ -27,11 +27,11 @@ git clone https://github.com/NixieBytes/linkphish.git
 2. Navigate to the LinkPhish directory:
 
 ```bash
-cd LinkPhish
+cd linkphish
 ```
 3. Run the script:
 ```bash
-bash LinkPhish.sh
+bash linkphish
 ```
     
 ## Contributing
