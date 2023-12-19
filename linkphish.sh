@@ -18,7 +18,7 @@ cat << "EOF"
 ███████╗██║██║░╚███║██║░╚██╗██║░░░░░██║░░██║██║██████╔╝██║░░██║
 ╚══════╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝
 
-	  _____Deshigned by Nixie_Bytes Security Team_____
+	  _____Developed by Nixie_Bytes Security Team_____
 
 (Usage of LinkPhish for attacking targets without prior mutual consent is illegal.)
 EOF
