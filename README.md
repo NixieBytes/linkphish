@@ -36,7 +36,7 @@ bash linkphish
     
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to LinkPhish, please fork the repository, make your changes, and submit a pull request. Ensure your contributions adhere to the guidelines mentioned in the CONTRIBUTING.md file.
+Contributions are welcome! If you'd like to contribute to LinkPhish, please fork the repository, make your changes, and submit a pull request. 
 
 
 ## License
